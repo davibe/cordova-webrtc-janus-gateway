@@ -8,7 +8,8 @@ it successfully sends audio and video to the webrtc janus-gateway
 server and receives them back, it uses a turn server (even if it's not needed, 
 just to show it works).
 
-I tested it on wifi and 3g using an iphone 5, see [screenshot](sshot.jpg).
+I tested it on wifi and 3g using an iphone 5, see [screenshot](sshot.jpg)
+(small one is the local view, big one is the remote one).
 
 You need to roll your own janus-gateway + turn server if you want to use this.
 
