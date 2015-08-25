@@ -1,4 +1,4 @@
-This is an example on how to use PhoneRTC with janus-gateway.
+This is an example of how to use PhoneRTC with janus-gateway.
 
 - https://github.com/alongubkin/phonertc
 - https://github.com/meetecho/janus-gateway
@@ -8,7 +8,7 @@ it successfully sends audio and video to the webrtc janus-gateway
 server and receives them back, it uses a turn server (even if it's not needed, 
 just to show it works).
 
-I tested it on wifi and 3g using an iphone 5.
+I tested it on wifi and 3g using an iphone 5, see [screenshot](sshot.jpg).
 
 You need to roll your own janus-gateway + turn server if you want to use this.
 
