@@ -1,0 +1,93 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', '.' ]
+2 info using npm@2.12.1
+3 info using node@v0.12.7
+4 verbose node symlink /usr/local/bin/node
+5 verbose install initial load of /Users/dade/work/cordova-webrtc-janus-gateway/package.json
+6 warn package.json PhoneRTCDemo@0.0.0 No repository field.
+7 warn package.json PhoneRTCDemo@0.0.0 No license field.
+8 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/bower/package.json
+9 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/chai/package.json
+10 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/cordova/package.json
+11 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/glob/package.json
+12 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt/package.json
+13 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-autoprefixer/package.json
+14 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-cli/package.json
+15 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-concurrent/package.json
+16 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-contrib-clean/package.json
+17 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-contrib-concat/package.json
+18 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-contrib-connect/package.json
+19 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-contrib-copy/package.json
+20 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-contrib-cssmin/package.json
+21 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-contrib-htmlmin/package.json
+22 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-contrib-jshint/package.json
+23 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-contrib-uglify/package.json
+24 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-contrib-watch/package.json
+25 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-karma/package.json
+26 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-newer/package.json
+27 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-ng-annotate/package.json
+28 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-ng-constant/package.json
+29 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-usemin/package.json
+30 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/grunt-wiredep/package.json
+31 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/jshint-stylish/package.json
+32 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/karma/package.json
+33 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/karma-chai/package.json
+34 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/karma-chrome-launcher/package.json
+35 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/karma-coverage/package.json
+36 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/karma-mocha/package.json
+37 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/karma-phantomjs-launcher/package.json
+38 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/load-grunt-tasks/package.json
+39 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/lodash/package.json
+40 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/mkdirp/package.json
+41 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/mocha/package.json
+42 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/ncp/package.json
+43 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/orchestrator/package.json
+44 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/ripple-emulator/package.json
+45 verbose installManyTop reading scoped package data from /Users/dade/work/cordova-webrtc-janus-gateway/node_modules/time-grunt/package.json
+46 info package.json bower@1.4.1 No license field.
+47 info package.json grunt@0.4.5 No license field.
+48 info package.json grunt-cli@0.1.13 No license field.
+49 info package.json grunt-contrib-htmlmin@0.1.3 No README data
+50 info package.json grunt-contrib-htmlmin@0.1.3 No license field.
+51 info package.json karma-mocha@0.1.10 No README data
+52 info package.json orchestrator@0.3.7 No license field.
+53 info package.json cordova@3.5.0-0.2.7 license should be a valid SPDX license expression
+54 info package.json grunt-autoprefixer@0.4.2 No license field.
+55 info package.json grunt-contrib-clean@0.5.0 No license field.
+56 info package.json grunt-concurrent@0.4.3 No license field.
+57 info package.json grunt-contrib-connect@0.5.0 No license field.
+58 info package.json grunt-contrib-concat@0.3.0 No license field.
+59 info package.json grunt-contrib-cssmin@0.7.0 No license field.
+60 info package.json grunt-contrib-copy@0.4.1 No license field.
+61 info package.json grunt-contrib-uglify@0.2.7 No license field.
+62 info package.json grunt-contrib-jshint@0.7.2 No license field.
+63 info package.json grunt-contrib-watch@0.5.3 No license field.
+64 info package.json grunt-ng-constant@0.5.0 No license field.
+65 info package.json grunt-newer@0.6.1 No license field.
+66 info package.json grunt-ng-annotate@0.2.3 No license field.
+67 info package.json grunt-wiredep@1.9.0 No license field.
+68 info package.json grunt-usemin@2.0.2 license should be a valid SPDX license expression
+69 info package.json ripple-emulator@0.9.30 No license field.
+70 verbose readDependencies loading dependencies from /Users/dade/work/cordova-webrtc-janus-gateway/package.json
+71 silly cache add args [ '.', null ]
+72 verbose cache add spec .
+73 silly cache add parsed spec { raw: '.',
+73 silly cache add   scope: null,
+73 silly cache add   name: null,
+73 silly cache add   rawSpec: '.',
+73 silly cache add   spec: '/Users/dade/work/cordova-webrtc-janus-gateway/app',
+73 silly cache add   type: 'local' }
+74 error addLocal Could not install /Users/dade/work/cordova-webrtc-janus-gateway/app
+75 verbose stack Error: EISDIR, read
+75 verbose stack     at Error (native)
+76 verbose cwd /Users/dade/work/cordova-webrtc-janus-gateway/app
+77 error Darwin 14.5.0
+78 error argv "node" "/usr/local/bin/npm" "install" "."
+79 error node v0.12.7
+80 error npm  v2.12.1
+81 error code EISDIR
+82 error errno -21
+83 error EISDIR, read
+84 error If you need help, you may report this error at:
+84 error     <https://github.com/npm/npm/issues>
+85 verbose exit [ -21, true ]
